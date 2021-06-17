@@ -1,4 +1,4 @@
-module github.com/LIM_BACKEND/spidsaml
+module github.com/davideporro/spidsaml
 
 go 1.16
 
